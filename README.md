@@ -1,9 +1,9 @@
 
-**Objective:**
+**Business Understanding:**
 
 To analyze Vrinda Store's 2022 sales data to identify key trends, customer preferences, and opportunities for growth in 2023.
 
-**Key Questions:**
+**Gathering Requirements:**
 
 1. **Sales and Orders Analysis:**
    * How did sales and orders compare throughout 2022?
@@ -25,5 +25,22 @@ To analyze Vrinda Store's 2022 sales data to identify key trends, customer prefe
 
 6. **Channel Performance:**
    * How did sales performance vary across different sales channels?
+  
+
+**Data Processing**
+
+After understanding the dataset we have created the columns named AGE GROUP & MONTH For better data analysis. 
+
+
+**Data Analysis**
+
+1. **Inserting Pivot Tables**
+    * Inserting pivot tables using the last dataset I have created and added the pivot charts.
+  
+2. **Creating The dashboard**
+    * Creating the dashbaord on the another sheet to get the better read for our data analysis.
+
+3. **Providing The Report To Stakeholders**
+    * Proving the areas of improvement and the target areas to the stakeholders 
 
 This analysis will provide valuable insights to Vrinda Store for making data-driven decisions and achieving growth in 2023.
