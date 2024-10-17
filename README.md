@@ -29,13 +29,13 @@ To analyze Vrinda Store's 2022 sales data to identify key trends, customer prefe
 
 **Data Processing**
 
-After understanding the dataset we have created the columns named AGE GROUP & MONTH For better data analysis. 
+After understanding the dataset. I had created new columns named AGE GROUP & MONTH For better data analysis. 
 
 
 **Data Analysis**
 
 1. **Inserting Pivot Tables**
-    * Inserting pivot tables using the last dataset I have created and added the pivot charts.
+    * Inserting pivot tables using the last dataset I have had created and added the pivot charts.
   
 2. **Creating The dashboard**
     * Creating the dashbaord on the another sheet to get the better read for our data analysis.
